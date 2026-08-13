@@ -5,7 +5,7 @@
   <img src="your-banner-image.png" width="100%">
 </div>
 
-Hello! 🛰️ My name is Ahrens. I'm a Computer Engineering student at MSU-IIT. 🚀
+Hello! 🛰️ My name is Ahrens Orlie Jay Bital, I'm a Computer Engineering student at MSU-IIT. 🚀
 
 I have a huge interest in signal processing and embedded systems 📡, as well as space robotics! Currently building **TenSoar**, an sEMG bio-tension telerobotic probe for the NASA Space Apps Challenge.
 
