@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- banner image placeholder -->
-  <img width="628" height="400" alt="download" src="https://github.com/user-attachments/assets/c58c9fa5-4dad-43a5-8d70-9cb3dca73314" />
+  <img width="100%" alt="profile-banner" src="https://github.com/user-attachments/assets/c58c9fa5-4dad-43a5-8d70-9cb3dca73314" />
 </div>
 
 <div align="center">
