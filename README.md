@@ -58,7 +58,7 @@
 
 ---
 
-### 📌 Featured Finished Projects, Upcoming Projects & Experience
+### 📌Finished Projects, Upcoming Projects & Experience
 
 #### 📡 **Environmental Sensor Field Telemetry**
 *Field Research Assistant — MSU-IIT Thesis Study*
