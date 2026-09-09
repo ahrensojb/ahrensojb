@@ -24,7 +24,7 @@
 - 🎓 **Studies:** Sophomore pursuing B.S. in Computer Engineering at MSU-IIT (Class of 2029).
 - 🔬 **Focus Areas:** Environmental sensing, sensor interfacing, microcontroller prototyping, and quantum algorithm education.
 - 🏛️ **Leadership:** Club Director at **QC² (Quantum Computing Club, Tesseract)**, organizing hackathons and workshops.
-- 🤝 **Community:** DEVCON robotics volunteer mentor introducing youth to embedded programming and robotics logic.
+- 🤝 **Community:** DEVCON robotics mentor introducing youth to embedded programming and robotics logic.
 
 ---
 
